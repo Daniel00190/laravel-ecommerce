@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{ asset('css/nav.css') }}">
+<link rel="stylesheet" href="{{ secure_asset('css/nav.css') }}">
 
 
 
@@ -43,7 +43,7 @@
 
 </nav>
 
-<script src="{{ asset('js/nav.js') }}"></script>
+<script src="{{ secure_asset('js/nav.js') }}"></script>
 
 
 

@@ -5,7 +5,7 @@
 
 <head>
 	<title>Product Page</title>
-	<link rel="stylesheet" href="{{ asset('css/shop.css') }}">
+	<link rel="stylesheet" href="{{ secure_asset('css/shop.css') }}">
 
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">

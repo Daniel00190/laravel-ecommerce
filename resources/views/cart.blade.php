@@ -3,7 +3,7 @@
 
 <head>
 	<title>Cart Page</title>
-	<link rel="stylesheet" type="text/css" href="{{ asset('css/cart.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ secure_asset('css/cart.css') }}">
 
 
 	<link rel="preconnect" href="https://fonts.gstatic.com">
